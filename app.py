@@ -223,7 +223,7 @@ def more():
 
     st.markdown("---")
     st.markdown("### Label Img")
-    st.markdown("> A package created for labeling images in streamlit as a part of this project. [PyPi Link](https://pypi.org/project/image-label/) and [Github Link](https://github.com/SksOp/image_label)")
+    st.markdown("> A package created for labeling images in streamlit as a part of this project. [PyPi Link](https://pypi.org/project/image-label/) and [Github Link](https://github.com/asmicro/PCB-Detection.git)")
 
 def main():
     tab1, tab2, tab3= st.tabs(["Introduction", "Try it out","More Details"])
